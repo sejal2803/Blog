@@ -1,0 +1,8 @@
+{
+  "name": "blog1",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "popper.js": "^1.16.1"
+  }
+}
